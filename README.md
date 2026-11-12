@@ -23,6 +23,8 @@ uvicorn main:app --reload
 ```
 Abrir: http://127.0.0.1:8000/docs
 
+Video Demostrativo: https://drive.google.com/file/d/10GQ6e9OKB6kJd49OD09_HO60BMmHY2Qu/view?usp=drive_link
+
 ## 🔗 Endpoints
 | Operación | Método | Ruta | Éxito | Error |
 |---|---|---|---|---|
