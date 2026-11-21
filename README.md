@@ -62,5 +62,6 @@ Categoría: `{"nombre": "Gaming"}`
 
 ## 🎥 Videos
 - Guía 2: https://drive.google.com/file/d/10GQ6e9OKB6kJd49OD09_HO60BMmHY2Qu/view?usp=drive_link
+- Guía 3: https://drive.google.com/file/d/1DSTeWSUOiyQJxry_CjXRixdvjJB2X-DX/view?usp=sharing
 
 > Los datos viven en memoria: al reiniciar el servidor vuelven a los iniciales (y se pierden los usuarios registrados).
